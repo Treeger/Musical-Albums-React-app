@@ -1,0 +1,1059 @@
+{
+  "albums": [{
+      "id": 1,
+      "name": "Reflection"
+    },
+    {
+      "id": 2,
+      "name": "Two Zero One Seven"
+    },
+    {
+      "id": 3,
+      "name": "Angel's Knock"
+    },
+    {
+      "id": 4,
+      "name": "Remember"
+    },
+    {
+      "id": 5,
+      "name": "Winter"
+    },
+    {
+      "id": 6,
+      "name": "Prelude"
+    },
+    {
+      "id": 7,
+      "name": "Pink Season"
+    },
+    {
+      "id": 8,
+      "name": "Meant to Be"
+    },
+    {
+      "id": 9,
+      "name": "Nomad"
+    },
+    {
+      "id": 10,
+      "name": "Pentagon Tapes"
+    },
+    {
+      "id": 11,
+      "name": "11 Short Stories of Pain & Glory"
+    },
+    {
+      "id": 12,
+      "name": "Echolocation"
+    },
+    {
+      "id": 13,
+      "name": "Reanimate 3.0: The Covers EP"
+    },
+    {
+      "id": 14,
+      "name": "Ban2oozle"
+    },
+    {
+      "id": 15,
+      "name": "Limitless"
+    },
+    {
+      "id": 16,
+      "name": "Youth Is Only Ever Fun in Retrospect"
+    },
+    {
+      "id": 17,
+      "name": "Night People"
+    },
+    {
+      "id": 18,
+      "name": "No Plan"
+    },
+    {
+      "id": 19,
+      "name": "Just Bring It"
+    },
+    {
+      "id": 20,
+      "name": "Mystery of Venus"
+    },
+    {
+      "id": 21,
+      "name": "Ambitions"
+    },
+    {
+      "id": 22,
+      "name": "Vai Passar Mal"
+    },
+    {
+      "id": 23,
+      "name": "L'amore e la violenza"
+    },
+    {
+      "id": 24,
+      "name": "The Future State of Wicked"
+    },
+    {
+      "id": 25,
+      "name": "Migration"
+    },
+    {
+      "id": 26,
+      "name": "Forever"
+    },
+    {
+      "id": 27,
+      "name": "Only the Lonely"
+    },
+    {
+      "id": 28,
+      "name": "Rise"
+    },
+    {
+      "id": 29,
+      "name": "Oczy Mlody"
+    },
+    {
+      "id": 30,
+      "name": "Gentlewoman, Ruby Man"
+    },
+    {
+      "id": 31,
+      "name": "Silver"
+    },
+    {
+      "id": 32,
+      "name": "Healed by Metal"
+    },
+    {
+      "id": 33,
+      "name": "Walk"
+    },
+    {
+      "id": 34,
+      "name": "Up and Coming"
+    },
+    {
+      "id": 35,
+      "name": "Not Even Happiness"
+    },
+    {
+      "id": 36,
+      "name": "Endless"
+    },
+    {
+      "id": 37,
+      "name": "Puxico"
+    },
+    {
+      "id": 38,
+      "name": "Hà Nội Duo"
+    },
+    {
+      "id": 39,
+      "name": "Roman Lips"
+    },
+    {
+      "id": 40,
+      "name": "In the Passing Light of Day"
+    },
+    {
+      "id": 41,
+      "name": "GTTM: Goin Thru the Motions"
+    },
+    {
+      "id": 42,
+      "name": "Feel Your Feelings Fool!"
+    },
+    {
+      "id": 43,
+      "name": "Piano Portraits"
+    },
+    {
+      "id": 44,
+      "name": "Politur Passiarer"
+    },
+    {
+      "id": 45,
+      "name": "Product of Isolation"
+    },
+    {
+      "id": 46,
+      "name": "Machine Messiah"
+    },
+    {
+      "id": 47,
+      "name": "Rennen"
+    },
+    {
+      "id": 48,
+      "name": "New World Alphabet"
+    },
+    {
+      "id": 49,
+      "name": "Godfather"
+    },
+    {
+      "id": 50,
+      "name": "I See You"
+    },
+    {
+      "id": 51,
+      "name": "Crystyle"
+    },
+    {
+      "id": 52,
+      "name": "Gold"
+    },
+    {
+      "id": 53,
+      "name": "Don't Say No"
+    },
+    {
+      "id": 54,
+      "name": "Covered and Taped"
+    },
+    {
+      "id": 55,
+      "name": "E.G. Crazy"
+    },
+    {
+      "id": 56,
+      "name": "Taecyeon Special ～Winter Hitori～"
+    },
+    {
+      "id": 57,
+      "name": "AFI"
+    },
+    {
+      "id": 58,
+      "name": "okay."
+    },
+    {
+      "id": 59,
+      "name": "Selfish Age"
+    },
+    {
+      "id": 60,
+      "name": "Future Politics"
+    },
+    {
+      "id": 61,
+      "name": "Apocalipstick"
+    },
+    {
+      "id": 62,
+      "name": "Vit"
+    },
+    {
+      "id": 63,
+      "name": "Nº3"
+    },
+    {
+      "id": 64,
+      "name": "Immortals"
+    },
+    {
+      "id": 65,
+      "name": "Hang"
+    },
+    {
+      "id": 66,
+      "name": "Modern Ruin"
+    },
+    {
+      "id": 67,
+      "name": "Comunisti col Rolex"
+    },
+    {
+      "id": 68,
+      "name": "The Last Text EP"
+    },
+    {
+      "id": 69,
+      "name": "The Search for Everything: Wave One"
+    },
+    {
+      "id": 70,
+      "name": "Dragonfly"
+    },
+    {
+      "id": 71,
+      "name": "Dear Avalanche"
+    },
+    {
+      "id": 72,
+      "name": "Yesterday's Gone"
+    },
+    {
+      "id": 73,
+      "name": "Lemon Memory"
+    },
+    {
+      "id": 74,
+      "name": "Intoxicated Women"
+    },
+    {
+      "id": 75,
+      "name": "Return to Ommadawn"
+    },
+    {
+      "id": 76,
+      "name": "Fénix"
+    },
+    {
+      "id": 77,
+      "name": "Palisades"
+    },
+    {
+      "id": 78,
+      "name": "Vessels"
+    },
+    {
+      "id": 79,
+      "name": "Another Day"
+    },
+    {
+      "id": 80,
+      "name": "She Rocks, Vol. 1"
+    },
+    {
+      "id": 81,
+      "name": "A Shadow in Time"
+    },
+    {
+      "id": 82,
+      "name": "The Slender Sadness (The Love Songs)"
+    },
+    {
+      "id": 83,
+      "name": "Mouth Moods"
+    },
+    {
+      "id": 84,
+      "name": "Yes? No?"
+    },
+    {
+      "id": 85,
+      "name": "Thumbnail"
+    },
+    {
+      "id": 86,
+      "name": "The Drum Chord Theory"
+    },
+    {
+      "id": 87,
+      "name": "Tourist in This Town"
+    },
+    {
+      "id": 88,
+      "name": "Triple Threat"
+    },
+    {
+      "id": 89,
+      "name": "Silhouettes"
+    },
+    {
+      "id": 90,
+      "name": "No Secrets"
+    },
+    {
+      "id": 91,
+      "name": "Three Stripes"
+    },
+    {
+      "id": 92,
+      "name": "The Devil Don't Sleep"
+    },
+    {
+      "id": 93,
+      "name": "After All These Years"
+    },
+    {
+      "id": 94,
+      "name": "Life Without Sound"
+    },
+    {
+      "id": 95,
+      "name": "All These Countless Nights"
+    },
+    {
+      "id": 96,
+      "name": "Red Sea Road"
+    },
+    {
+      "id": 97,
+      "name": "Return to the Sauce"
+    },
+    {
+      "id": 98,
+      "name": "Potsdamer Platz"
+    },
+    {
+      "id": 99,
+      "name": "Near to the Wild Heart of Life"
+    },
+    {
+      "id": 100,
+      "name": "No Rain, No Rose"
+    },
+    {
+      "id": 101,
+      "name": "SweetSexySavage"
+    },
+    {
+      "id": 102,
+      "name": "Goliath"
+    },
+    {
+      "id": 103,
+      "name": "Gods of Violence"
+    },
+    {
+      "id": 104,
+      "name": "Road Less Traveled"
+    },
+    {
+      "id": 105,
+      "name": "I Hope You Don't Mind Me Writing"
+    },
+    {
+      "id": 106,
+      "name": "Piano Song"
+    },
+    {
+      "id": 107,
+      "name": "Culture"
+    },
+    {
+      "id": 108,
+      "name": "Godspeed"
+    },
+    {
+      "id": 109,
+      "name": "Chill, Dummy"
+    },
+    {
+      "id": 110,
+      "name": "Nothing Feels Natural"
+    },
+    {
+      "id": 111,
+      "name": "Five"
+    },
+    {
+      "id": 112,
+      "name": "Smash"
+    },
+    {
+      "id": 113,
+      "name": "Elegy"
+    },
+    {
+      "id": 114,
+      "name": "A Girl, a Bottle, a Boat"
+    },
+    {
+      "id": 115,
+      "name": "The Continuous Evilution of Life's ?'s"
+    },
+    {
+      "id": 116,
+      "name": "Ty Segall"
+    },
+    {
+      "id": 117,
+      "name": "South Texas Suite"
+    },
+    {
+      "id": 118,
+      "name": "Theater of Dimensions"
+    },
+    {
+      "id": 119,
+      "name": "Aquaberry Aquarius"
+    },
+    {
+      "id": 120,
+      "name": "Melanfonie"
+    },
+    {
+      "id": 121,
+      "name": "Higher"
+    },
+    {
+      "id": 122,
+      "name": "Rookie"
+    },
+    {
+      "id": 123,
+      "name": "OO"
+    },
+    {
+      "id": 124,
+      "name": "I Decided."
+    },
+    {
+      "id": 125,
+      "name": "Grace Street"
+    },
+    {
+      "id": 126,
+      "name": "Heavy Fire"
+    },
+    {
+      "id": 127,
+      "name": "Bury Me in Philly"
+    },
+    {
+      "id": 128,
+      "name": "The Kids Will Know It's Bullshit"
+    },
+    {
+      "id": 129,
+      "name": "24.июл"
+    },
+    {
+      "id": 130,
+      "name": "Little Fictions"
+    },
+    {
+      "id": 131,
+      "name": "G4 Love Songs"
+    },
+    {
+      "id": 132,
+      "name": "Fresh Air"
+    },
+    {
+      "id": 133,
+      "name": "Crossover Ministry"
+    },
+    {
+      "id": 134,
+      "name": "Drunken Songs"
+    },
+    {
+      "id": 135,
+      "name": "The Garden"
+    },
+    {
+      "id": 136,
+      "name": "False Hope"
+    },
+    {
+      "id": 137,
+      "name": "Testify EP"
+    },
+    {
+      "id": 138,
+      "name": "Safe in Sound"
+    },
+    {
+      "id": 139,
+      "name": "After the Party"
+    },
+    {
+      "id": 140,
+      "name": "The Rhapsody Tapes"
+    },
+    {
+      "id": 141,
+      "name": "Sing It Now: Songs of Faith & Hope"
+    },
+    {
+      "id": 142,
+      "name": "Remember Me: Essential, Vol. 1"
+    },
+    {
+      "id": 143,
+      "name": "Process"
+    },
+    {
+      "id": 144,
+      "name": "Louder!"
+    },
+    {
+      "id": 145,
+      "name": "Snowdonia"
+    },
+    {
+      "id": 146,
+      "name": "D-12 Presents Swifty McVay Grey Blood"
+    },
+    {
+      "id": 147,
+      "name": "Fin"
+    },
+    {
+      "id": 148,
+      "name": "J'ouvert"
+    },
+    {
+      "id": 149,
+      "name": "One Voice"
+    },
+    {
+      "id": 150,
+      "name": "Scapegoat"
+    },
+    {
+      "id": 151,
+      "name": "FRVR"
+    },
+    {
+      "id": 152,
+      "name": "LøVë"
+    },
+    {
+      "id": 153,
+      "name": "Zombies On Broadway"
+    },
+    {
+      "id": 154,
+      "name": "Blackfield V"
+    },
+    {
+      "id": 155,
+      "name": "Brett Young"
+    },
+    {
+      "id": 156,
+      "name": "Charm City"
+    },
+    {
+      "id": 157,
+      "name": "Bobby Fuller Died for Your Sins"
+    },
+    {
+      "id": 158,
+      "name": "Vietato morire"
+    },
+    {
+      "id": 159,
+      "name": "Memories Are Now"
+    },
+    {
+      "id": 160,
+      "name": "Belmont Street"
+    },
+    {
+      "id": 161,
+      "name": "DROGAS Light"
+    },
+    {
+      "id": 162,
+      "name": "Songs of Cinema"
+    },
+    {
+      "id": 163,
+      "name": "No Culture"
+    },
+    {
+      "id": 164,
+      "name": "La diversité"
+    },
+    {
+      "id": 165,
+      "name": "One Foot Out"
+    },
+    {
+      "id": 166,
+      "name": "Third Set"
+    },
+    {
+      "id": 167,
+      "name": "The Grinding Wheel"
+    },
+    {
+      "id": 168,
+      "name": "Being You Is Great, I Wish I Could Be You More Often"
+    },
+    {
+      "id": 169,
+      "name": "Human"
+    },
+    {
+      "id": 170,
+      "name": "Checkered Past"
+    },
+    {
+      "id": 171,
+      "name": "Look Both Ways"
+    },
+    {
+      "id": 172,
+      "name": "The Temple of I & I"
+    },
+    {
+      "id": 173,
+      "name": "Rip It Up"
+    },
+    {
+      "id": 174,
+      "name": "Everyone We Know"
+    },
+    {
+      "id": 175,
+      "name": "The Waiting Game"
+    },
+    {
+      "id": 176,
+      "name": "Origins (2011-2016)"
+    },
+    {
+      "id": 177,
+      "name": "Fifty Shades Darker: Original Motion Picture Soundtrack"
+    },
+    {
+      "id": 178,
+      "name": "Livin'"
+    },
+    {
+      "id": 179,
+      "name": "Skull and Bones (The Final Chapter)"
+    },
+    {
+      "id": 180,
+      "name": "Ebar Morle Gachh Hawbo"
+    },
+    {
+      "id": 181,
+      "name": "Keke Covers"
+    },
+    {
+      "id": 182,
+      "name": "Smile"
+    },
+    {
+      "id": 183,
+      "name": "El Chamaquito De Ahora"
+    },
+    {
+      "id": 184,
+      "name": "16 Wives"
+    },
+    {
+      "id": 185,
+      "name": "Windy City"
+    },
+    {
+      "id": 186,
+      "name": "Under Stars"
+    },
+    {
+      "id": 187,
+      "name": "The Painters"
+    },
+    {
+      "id": 188,
+      "name": "Bringer of Pain"
+    },
+    {
+      "id": 189,
+      "name": "All Your Fault: Pt. 1"
+    },
+    {
+      "id": 190,
+      "name": "Leitbild"
+    },
+    {
+      "id": 191,
+      "name": "In It to Win It"
+    },
+    {
+      "id": 192,
+      "name": "Big Balloon"
+    },
+    {
+      "id": 193,
+      "name": "The Great Momentum"
+    },
+    {
+      "id": 194,
+      "name": "I'm Only Dreaming"
+    },
+    {
+      "id": 195,
+      "name": "Plata O Plomo"
+    },
+    {
+      "id": 196,
+      "name": "Skin Companion EP 2"
+    },
+    {
+      "id": 197,
+      "name": "Enter the Kingdom"
+    },
+    {
+      "id": 198,
+      "name": "Future"
+    },
+    {
+      "id": 199,
+      "name": "Shaping the Soul"
+    },
+    {
+      "id": 200,
+      "name": "Life Will See You Now"
+    },
+    {
+      "id": 201,
+      "name": "The Chief"
+    },
+    {
+      "id": 202,
+      "name": "Solidarity"
+    },
+    {
+      "id": 203,
+      "name": "Rap Album Two"
+    },
+    {
+      "id": 204,
+      "name": "Songs of the Latin Skies"
+    },
+    {
+      "id": 205,
+      "name": "Beautiful Suicide"
+    },
+    {
+      "id": 206,
+      "name": "Highway Queen"
+    },
+    {
+      "id": 207,
+      "name": "Evolution"
+    },
+    {
+      "id": 208,
+      "name": "Terrible Human Beings"
+    },
+    {
+      "id": 209,
+      "name": "2016 Atomized"
+    },
+    {
+      "id": 210,
+      "name": "Prisoner"
+    },
+    {
+      "id": 211,
+      "name": "Hard Love"
+    },
+    {
+      "id": 212,
+      "name": "Common as Light and Love Are Red Valleys of Blood"
+    },
+    {
+      "id": 213,
+      "name": "Lost in the Ghost Light"
+    },
+    {
+      "id": 214,
+      "name": "Dumb Blood"
+    },
+    {
+      "id": 215,
+      "name": "Reassemblage"
+    },
+    {
+      "id": 216,
+      "name": "The Black"
+    },
+    {
+      "id": 217,
+      "name": "Fractures"
+    },
+    {
+      "id": 218,
+      "name": "TWICEcoaster: LANE 2"
+    },
+    {
+      "id": 219,
+      "name": "Dirty Projectors"
+    },
+    {
+      "id": 220,
+      "name": "Rosebudd's Revenge"
+    },
+    {
+      "id": 221,
+      "name": "One Week Record"
+    },
+    {
+      "id": 222,
+      "name": "Re:STUPiD"
+    },
+    {
+      "id": 223,
+      "name": "Vaquero"
+    },
+    {
+      "id": 224,
+      "name": "Chapter One: Blue"
+    },
+    {
+      "id": 225,
+      "name": "The Eternal Reign"
+    },
+    {
+      "id": 226,
+      "name": "Nessun posto è casa mia"
+    },
+    {
+      "id": 227,
+      "name": "Crystal Fairy"
+    },
+    {
+      "id": 228,
+      "name": "Youngish American"
+    },
+    {
+      "id": 229,
+      "name": "The Roc"
+    },
+    {
+      "id": 230,
+      "name": "Ensen"
+    },
+    {
+      "id": 231,
+      "name": "The Immortal Wars"
+    },
+    {
+      "id": 232,
+      "name": "In Between"
+    },
+    {
+      "id": 233,
+      "name": "Hndrxx"
+    },
+    {
+      "id": 234,
+      "name": "George Harrison – The Vinyl Collection"
+    },
+    {
+      "id": 235,
+      "name": "Still // Alone"
+    },
+    {
+      "id": 236,
+      "name": "Landmark"
+    },
+    {
+      "id": 237,
+      "name": "The Search for Everything: Wave Two"
+    },
+    {
+      "id": 238,
+      "name": "Flying Microtonal Banana"
+    },
+    {
+      "id": 239,
+      "name": "The Breaker"
+    },
+    {
+      "id": 240,
+      "name": "Sick Scenes"
+    },
+    {
+      "id": 241,
+      "name": "Anime di carta"
+    },
+    {
+      "id": 242,
+      "name": "Maybe Tomorrow"
+    },
+    {
+      "id": 243,
+      "name": "Canvas"
+    },
+    {
+      "id": 244,
+      "name": "Tardigrades Will Inherit the Earth"
+    },
+    {
+      "id": 245,
+      "name": "Nav"
+    },
+    {
+      "id": 246,
+      "name": "The Iceberg"
+    },
+    {
+      "id": 247,
+      "name": "Graveyard Whistling"
+    },
+    {
+      "id": 248,
+      "name": "Aathma"
+    },
+    {
+      "id": 249,
+      "name": "Why Love Now"
+    },
+    {
+      "id": 250,
+      "name": "Close to the Sun"
+    },
+    {
+      "id": 251,
+      "name": "Five"
+    },
+    {
+      "id": 252,
+      "name": "Freedom Highway"
+    },
+    {
+      "id": 253,
+      "name": "Inception"
+    },
+    {
+      "id": 254,
+      "name": "Seis peniques"
+    },
+    {
+      "id": 255,
+      "name": "Lower the Bar"
+    },
+    {
+      "id": 256,
+      "name": "Gang Signs & Prayer"
+    },
+    {
+      "id": 257,
+      "name": "Suicide Silence"
+    },
+    {
+      "id": 258,
+      "name": "Restoration of an American Idol"
+    },
+    {
+      "id": 259,
+      "name": "Drunk"
+    },
+    {
+      "id": 260,
+      "name": "Forget"
+    },
+    {
+      "id": 261,
+      "name": "Luv Is Rage 1.5"
+    },
+    {
+      "id": 262,
+      "name": "R U READY?"
+    },
+    {
+      "id": 263,
+      "name": "Act. 2 Narcissus"
+    },
+    {
+      "id": 264,
+      "name": "My Voice"
+    }
+  ]
+}
